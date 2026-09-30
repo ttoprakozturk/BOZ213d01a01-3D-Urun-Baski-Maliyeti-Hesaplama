@@ -20,3 +20,6 @@ Filamentin kilo fiyatı: 600
 
 Dosya
 maliyethesaplama.py
+
+25040284
+Toprak Öztürk
